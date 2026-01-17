@@ -1,0 +1,8 @@
+{
+  "name": "copy copy",
+  "description": "Full-stack cloud-synced daily sales and management tool for agriculture with Firebase Authentication and AI Intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
